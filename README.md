@@ -16,3 +16,4 @@
 
 - `day 1: 27/01/2024`- hello world
 - `day 2: 28/01/204`- media simples
+- `day 3: 09/02/204`- calculadora simples
